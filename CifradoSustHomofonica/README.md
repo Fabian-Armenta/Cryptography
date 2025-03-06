@@ -4,7 +4,7 @@
 **Facultad de Ingeniería, UNAM**  
 
 ## Descripción  
-Este programa implementa el **Cifrado por Sustitucion Homofonica **, asegúrate de tener **Python 3** instalado en tu sistema.
+Este programa implementa el **Cifrado por Sustitucion Homofonica**, asegúrate de tener **Python 3** instalado en tu sistema.
 
 ## Ejecución  
 1. Descargar el archivo .py
